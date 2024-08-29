@@ -1,0 +1,10 @@
+Servo Motor
+Red   --- 5V
+Brown --- GND
+Orange --- 11
+
+Sensor
+VCC --- 5V
+GND --- GND
+TRIG --- 8
+ECHO --- 9
