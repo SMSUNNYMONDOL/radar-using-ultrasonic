@@ -8,3 +8,6 @@ VCC --- 5V
 GND --- GND
 TRIG --- 8
 ECHO --- 9
+
+
+MUST USE COM7
